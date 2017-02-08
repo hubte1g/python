@@ -6,6 +6,5 @@ Amazon SDK for Python: http://aws.amazon.com/sdk-for-python/ | Boto3: https://gi
 
 Serverless: https://www.zappa.io | https://github.com/Miserlou/Zappa
 
-
-
+Search results relevance: https://www.kaggle.com/nkhuyu/crowdflower-search-relevance/kappa-intuition
 
